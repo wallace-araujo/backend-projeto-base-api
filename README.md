@@ -37,14 +37,13 @@ DB_PORT=5432
 DB_NAME=projectTeste
 DB_USER=
 DB_PASSWORD=
-
+```
 
 
 3 - Definir a versão do Node.js >= 18
 
 ```
 nvm use 20
-
 ```
 
 4 - Criar tabelas e dados fake
